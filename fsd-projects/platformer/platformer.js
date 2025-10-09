@@ -36,7 +36,7 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-
+  createCollectable(Addison, x, y);
 
 
     
