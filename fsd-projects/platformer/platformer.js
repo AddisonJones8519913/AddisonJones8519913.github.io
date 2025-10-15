@@ -42,7 +42,8 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
-  //createCollectable(Addison, x, y);
+  createCollectable(Addison, x, y);
+
 
 
     
