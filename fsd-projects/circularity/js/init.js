@@ -71,15 +71,12 @@ var init = function (window) {
         */
         function update() {
             // TODO 4 : Update the position of each circle physikz.updatePosition
-            physikz.updatePosition(physikz.updatePosition(circles[ 0 ])
+            for (var i = 0; i < circles.length; i++) {
 
-            physikz.updatePosition(circles[ 1 ])
+               physikz.updatePosition(circles[i]);
 
-            physikz.updatePosition(circles[ 2 ])
 
-            physikz.updatePosition(circles[ 3 ])
-
-            physikz.updatePosition(circles[ 4 ]))
+}
 
              
               
